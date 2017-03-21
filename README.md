@@ -6,12 +6,12 @@
 
 2.python 2.7.10
 
-#使用方式
+# 使用方式
 ```python
 domainLastName = "run"
 ```
 将run改成你要查询的域名后缀即可
 
-#注意
+# 注意
 
 因API局限性，仅支持部分域名
